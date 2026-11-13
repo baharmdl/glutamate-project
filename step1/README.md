@@ -2,7 +2,7 @@
 
 Scientific question: does MRS glutamate vary across session, condition (MSL / MEC) and region (SMA / PCC)?
 
-Run from the Step-1 folder, in this order. Step 1 reads the Step-0 output `../step0/table0_1_per_measurement.csv`.
+Run Step 0 first (`../step0/`), then the scripts below from the Step-1 folder, in this order. Step 1 reads the Step-0 output `../step0/table0_1_per_measurement.csv`, which includes the corrected sub-04 visit order.
 
 | Script | What it does | Output |
 |---|---|---|
